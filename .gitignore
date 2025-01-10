@@ -1,0 +1,7 @@
+# Ignore .DS_Store files in the root directory
+/.DS_Store
+/*.zip
+
+# Ignore .DS_Store files in all directories
+**/.DS_Store
+**/.zip
